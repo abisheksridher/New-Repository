@@ -12,7 +12,7 @@ public class Program1 {
 		int sum=0;
 		System.out.println("Hello");
 		System.out.println("Hello Abishek");
-		
+		System.out.println("Hello Abi");
 		for(char c: input.toCharArray())
 		{
 			if(!(Character.isLetterOrDigit(c)))
