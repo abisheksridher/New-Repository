@@ -28,7 +28,5 @@ class Program1Test {
 		} catch(BugException e) {
 			fail();
 		}
-	}
-		
 }		
 		

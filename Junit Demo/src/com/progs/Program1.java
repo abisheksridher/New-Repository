@@ -10,6 +10,7 @@ public class Program1 {
 	public int solution(String input) throws BugException
 	{
 		int sum=0;
+		System.out.println("Hello");
 		for(char c: input.toCharArray())
 		{
 			if(!(Character.isLetterOrDigit(c)))
