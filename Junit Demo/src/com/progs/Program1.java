@@ -11,6 +11,7 @@ public class Program1 {
 	{
 		int sum=0;
 		System.out.println("Hello");
+		System.out.println("Hello");
 		for(char c: input.toCharArray())
 		{
 			if(!(Character.isLetterOrDigit(c)))
